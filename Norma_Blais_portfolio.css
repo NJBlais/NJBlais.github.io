@@ -236,7 +236,10 @@ input[type=submit]:hover {
     font-family: "Trebuchet MS", Optima;
  }
     /***** END OF CONTACT FORM STYLING *****/
-    
+ .contact-image {
+    width: 100px;
+    height: 100px;
+ }   
 
 
 
